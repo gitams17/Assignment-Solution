@@ -1,0 +1,9 @@
+main
+main.exe
+
+.env
+
+.DS_Store
+Thumbs.db
+
+.vscode/
